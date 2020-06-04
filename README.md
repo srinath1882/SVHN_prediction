@@ -41,3 +41,5 @@ For questions regarding the dataset, please contact streetviewhousenumbers@gmail
 
 ### CNN for SVHN
 A Convolutional Neural Network has been developed to train and test SVHN dataset using Tesnorflow 2.2 in Google Colab and the link could be seen [here](https://colab.research.google.com/drive/1bVeZSzY5U7GOCw42JQSSOWzh9galGA-V?usp=sharing)
+
+The Network is also tested on the test images provided in this repo. Note that the test images are multiple times 90 degrees rotated versions of images from the SVHN dataset
